@@ -1,0 +1,10 @@
+F:\CC0_Csharp_WindowsForms\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+F:\CC0_Csharp_WindowsForms\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+F:\CC0_Csharp_WindowsForms\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+F:\CC0_Csharp_WindowsForms\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+F:\CC0_Csharp_WindowsForms\MathQuiz\MathQuiz\obj\Debug\MathQuiz.MathQuiz.resources
+F:\CC0_Csharp_WindowsForms\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+F:\CC0_Csharp_WindowsForms\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+F:\CC0_Csharp_WindowsForms\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+F:\CC0_Csharp_WindowsForms\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+F:\CC0_Csharp_WindowsForms\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
