@@ -7,5 +7,8 @@ Other examples of ideas from the Internet and books
 3. https://learn.microsoft.com/zh-tw/visualstudio/get-started/csharp/tutorial-windows-forms-create-match-game?view=vs-2022
 4. 
 
+MathQuiz
+https://youtu.be/9CgvdnJdnoo
+
 Other references will be added later.
-2024/06/05
+2024/06/11
